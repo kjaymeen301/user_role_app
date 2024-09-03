@@ -1,2 +1,5 @@
 step 1 npm install
 setp 2 step db you want create new db and connection db string set in env  
+
+after run first superadmin user or run migrations 
+- run commad "node initialize.js" 
